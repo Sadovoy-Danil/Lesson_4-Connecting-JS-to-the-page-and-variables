@@ -16,4 +16,4 @@ _**Словарь**_
 
 [CamelCase](https://ru.wikipedia.org/wiki/CamelCase "CamelCase это...") — стиль написания составных слов, при котором несколько слов пишутся слитно без пробелов, при этом каждое слово внутри фразы пишется с прописной буквы.
 
-![CamelCase](/img/CamelCase.png)
+![CamelCase](/img/CamelCase.jpg)
